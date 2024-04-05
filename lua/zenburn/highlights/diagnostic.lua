@@ -4,5 +4,6 @@ return {
 	DiagnosticWarn = { fg=c.PreProc.fg },
 	DiagnosticInfo = { fg=c.Statement.fg },
 	DiagnosticHint = { fg=c.MatchParen.fg },
+	DiagnosticUnnecessary = { fg=c.Unnecessary.fg },
 }
 
